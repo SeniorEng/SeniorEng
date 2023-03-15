@@ -3,13 +3,9 @@
 </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Full+Stack+Engineer+With+8++Years+Of+Experience+In+Web+&+BlockChain+Development!)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=FingerPaint&weight=700&pause=1000&center=true&vCenter=true&width=500&height=80&lines=Hello+there%2C+I'm+Full-Stack+Engineer;8%2B+Years+Of+Experience+In+Web+%26+Blochcain)](https://git.io/typing-svg)
 
 <br>
-
-# &nbsp;
-
-
 
 <p>
  PROGRAMMING LANGUAGES
@@ -44,6 +40,7 @@ FRAMEWORKS AND LIBRARIES
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MUI&color=007FFF&logo=MUI&logoColor=FFFFFF)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 </p>
