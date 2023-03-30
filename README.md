@@ -1,6 +1,5 @@
 <h1 align="center">Hi, there! 👋</h1>
 
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FingerPaint&weight=700&pause=1000&center=true&vCenter=true&width=500&height=80&lines=Hello+there%2C+I'm+Full-Stack+Engineer;8%2B+Years+Of+Experience+In+Web+%26+Blochcain" alt="Typing SVG" /></a>
 </div>
@@ -21,9 +20,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 </p>
-
-
 
 <p>
 FRAMEWORKS AND LIBRARIES
@@ -43,8 +41,8 @@ FRAMEWORKS AND LIBRARIES
 ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MUI&color=007FFF&logo=MUI&logoColor=FFFFFF)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-</p>
 
+</p>
 
 <p>
 DATABASE AND HOSTING
@@ -63,6 +61,7 @@ DATABASE AND HOSTING
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 </p>
 
 <p>
@@ -87,17 +86,20 @@ SOFTWARE AND TOOLS
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 </p>
-
-
 
 # &nbsp;
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senioreng&langs_count=8&layout=compact&theme=dark" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=senioreng&show_icons=true&theme=dark" />
+<p align="center">
+  <a href="https://github.com/senioreng">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senioreng&langs_count=8&layout=compact&theme=dark" />
+  </a>
 
-
-
+  <a href="https://github.com/senioreng">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=senioreng&show_icons=true&theme=dark" />
+  </a>
+</p>
 
 <!--
 **SeniorEng/SeniorEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
