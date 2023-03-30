@@ -1,4 +1,4 @@
-<h1 align="center">Hi, there! 👋</h1>
+<h1 align="center">Hi, Here is Andrii Maistrenko 👋</h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FingerPaint&weight=700&pause=1000&center=true&vCenter=true&width=500&height=80&lines=Hello+there%2C+I'm+Full-Stack+Engineer;8%2B+Years+Of+Experience+In+Web+%26+Blochcain" alt="Typing SVG" /></a>
@@ -104,3 +104,5 @@ SOFTWARE AND TOOLS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </p>
+
+![](https://komarev.com/ghpvc/?username=SeniorEng&color=dc143c)
