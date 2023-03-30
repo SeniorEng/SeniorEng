@@ -6,6 +6,22 @@
 
 <br />
 
+<p align="center">
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=FateNinja&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/senioreng">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senioreng&langs_count=8&layout=compact&theme=dark" />
+  </a>
+
+  <a href="https://github.com/senioreng">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=senioreng&show_icons=true&theme=dark" />
+  </a>
+</p>
+
+<br />
+
 <p>
  PROGRAMMING LANGUAGES
 
@@ -88,30 +104,3 @@ SOFTWARE AND TOOLS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </p>
-
-# &nbsp;
-
-<p align="center">
-  <a href="https://github.com/senioreng">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senioreng&langs_count=8&layout=compact&theme=dark" />
-  </a>
-
-  <a href="https://github.com/senioreng">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=senioreng&show_icons=true&theme=dark" />
-  </a>
-</p>
-
-<!--
-**SeniorEng/SeniorEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
