@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=FateNinja&include_all_commits=true&hide_border=true&theme=dark"/>
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorEng&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
 
 <p align="center">
