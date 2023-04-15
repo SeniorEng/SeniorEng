@@ -18,6 +18,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/SeniorENg">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=SeniorEng&theme=onedark&row=1&&column=7" />
+  </a>  
+</p>
+
+
 <br />
 
 <p>
