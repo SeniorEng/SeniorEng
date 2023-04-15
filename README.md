@@ -10,11 +10,11 @@
 
 <p align="center">
   <a href="https://github.com/senioreng">
-    <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=senioreng&langs_count=8&layout=compact&theme=dark" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorEng&langs_count=8&layout=compact&theme=dark" />
   </a>
 
   <a href="https://github.com/senioreng">
-    <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=senioreng&show_icons=true&theme=dark" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=senioreng&show_icons=true&theme=dark" />
   </a>
 </p>
 
